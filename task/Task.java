@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 /**
  * 
- * @author ranas
+ * @author >>RanaSiroosian<<
  *
  */
 public class Task {
